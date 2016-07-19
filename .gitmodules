@@ -1,0 +1,6 @@
+[submodule "src/main/webapp/flask"]
+	path = src/main/webapp/flask
+	url = https://github.com/burtonwynne/TriviaQuiz.WS.Flask
+[submodule "src/main/mobile/ios"]
+	path = src/main/mobile/ios
+	url = https://github.com/burtonwynne/TriviaQuiz.Mobile.IOS
